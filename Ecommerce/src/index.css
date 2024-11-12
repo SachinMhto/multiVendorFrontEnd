@@ -1,0 +1,9 @@
+.logo {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: italic;
+  color: teal;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
